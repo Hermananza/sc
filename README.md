@@ -5,7 +5,7 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://abc.xcodehoster.com/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/Hermananza/sc/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
