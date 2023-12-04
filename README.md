@@ -1,7 +1,7 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://kytvpn.xcodehoster.com/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Hermananza/sc/main/premi.sh && chmod +x premi.sh && screen -S install ./premi.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
